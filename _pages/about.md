@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: headshot-2026.png
+  image: headshot-2026.PNG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Data Science and Engineering</p>
