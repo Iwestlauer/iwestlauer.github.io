@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Isabella Westlauer is a Master’s student in Data Science at Southern Methodist University, with a background in Electrical Engineering from The University of Texas at Dallas. She currently works as a data engineer for a small healthcare company, where she supports data pipelines and analytics workflows that contribute to data-informed decision-making. Her professional and academic interests include data analysis, visualization, and applying data science techniques to real-world problems, particularly in healthcare and other applied domains.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Through her graduate studies, Isabella is continuing to strengthen her technical skills in Python, statistics, and data modeling, building proficiency beyond the beginner level through coursework and hands-on experience. She enjoys the challenge of turning complex data into meaningful insights and values clear communication as a critical part of effective data science.
