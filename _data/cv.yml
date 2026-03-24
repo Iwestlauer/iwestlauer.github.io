@@ -4,7 +4,7 @@ cv:
   email: iwestlauer@smu.edu
   location: Dallas, TX
   image: ""
-  summary: Data engineer and technical leader with expertise in automation, data pipelines, and healthcare compliance. Designed and deployed large-scale arbitration automation systems integrating SQL, Python, APIs, and cloud tools, achieving 90%+ efficiency gains and unlocking significant financial recovery under the No Surprises Act. Experienced in mentoring specialists, leading product development, and transitioning operations into agile, CI/CD-driven environments. Strong communicator who connects technical solutions to measurable business outcomes.
+  summary: Data engineer and technical leader with expertise in automation, data pipelines, and healthcare compliance.
 
   social_networks:
     - network: GitHub
