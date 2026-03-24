@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Stuff I worked really hard on.
 nav: true
 nav_order: 3
-display_categories: [doing data science, fun]
+display_categories: [doing data science]
 horizontal: false
 ---
 
