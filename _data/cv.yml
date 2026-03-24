@@ -1,10 +1,8 @@
 cv:
   name: Isabella Westlauer
-  label: Data Engineer
+  headline: Data Engineer
   email: iwestlauer@smu.edu
   location: Dallas, TX
-  image: ""
-  summary: "Data engineer and technical leader with expertise in automation, data pipelines, and healthcare compliance."
 
   social_networks:
     - network: GitHub
@@ -63,29 +61,26 @@ cv:
           - Directed release cycles, authored user documentation, and led staff training, ensuring successful adoption of new software features.
 
     Awards:
-      - title: Employee Excellence Award
+      - name: Employee Excellence Award
         date: 2024
         awarder: OrthoMed Anesthesia
         summary: Awarded for outstanding achievements in the IT department.
 
     Skills:
-      - name: Python
-        level: Intermediate
-        keywords: "pandas, numpy, requests, playwright/selenium, pathlib/shutil"
+      - label: Python
+        details: "pandas, numpy, requests, playwright/selenium, pathlib/shutil"
 
-      - name: SQL
-        level: Beginner
-        keywords: "ETL/ELT, data cleaning, DataOps"
+      - label: SQL
+        details: "ETL/ELT, data cleaning, DataOps"
 
-      - name: Azure DevOps
-        level: Beginner-Intermediate
-        keywords: "CI/CD, IaC, Git"
+      - label: Azure DevOps
+        details: "CI/CD, IaC, Git"
 
     Certificates:
       - name: Certified Specialist Business Intelligence
         date: 2023-09
         issuer: Healthcare Financial Management Association
 
-      - name: Continuous Integration/ Continuous Delivery
+      - name: Continuous Integration / Continuous Delivery
         date: 2025-10
         issuer: Coursera
