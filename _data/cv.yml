@@ -4,7 +4,7 @@ cv:
   email: iwestlauer@smu.edu
   location: Dallas, TX
   image: ""
-  summary: A graduate student in data science, working on data engineering solutions for medical billing
+  summary: Data engineer and technical leader with expertise in automation, data pipelines, and healthcare compliance. Designed and deployed large-scale arbitration automation systems integrating SQL, Python, APIs, and cloud tools, achieving 90%+ efficiency gains and unlocking significant financial recovery under the No Surprises Act. Experienced in mentoring specialists, leading product development, and transitioning operations into agile, CI/CD-driven environments. Strong communicator who connects technical solutions to measurable business outcomes.
 
   social_networks:
     - network: GitHub
@@ -15,40 +15,32 @@ cv:
   address:
     city: Dallas
     region: Texas
-    postalCode: TX 75205
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Pittsburgh
-        location: Pittsburgh, Pennsylvania
-        url: https://www.pitt.edu
-        area: Bioengineering
-        studyType: BS
-        start_date: 2008
-        end_date: 2010
+      - institution: Southern Methodist University
+        location: Dallas, TX
+        studyType: MS Data Science
+        start_date: 2026
+        end_date: current
         highlights:
-          - Description 1.
-          - Description 2.
+          - First semester, doing data science with Dr. Bivin Sadler
 
       - institution: University of Texas at Dallas
         location: Dallas, TX
-        area: Electrical Engineering
-        studyType: BS
+        studyType: BS Electrical Engineering
         start_date: 2011
         end_date: 2018
         highlights:
           - Senior Design Leader, Designed and built an award-winning wearable biofeedback device using Arduino and Android for panic attack detection and intervention.
           - Volunteer Project Leader, Led student dev team building a secure autism patient data-tracking app (Android/iOS), ensuring stakeholder input and HIPAA-conscious design.
 
-      - institution: Southern Methodist University
-        location: Dallas, TX
-        area: Data Science
-        studyType: MS
-        start_date: 2026
-        end_date: 2028
-        highlights:
-          - First semester, doing data science with Dr. Bivin Sadler
+      - institution: University of Pittsburgh
+        location: Pittsburgh, Pennsylvania
+        studyType: BS Bioengineering
+        start_date: 2008
+        end_date: 2010
 
     Experience:
       - company: OrthoMed Anesthesia
