@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Stuff I worked really hard on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -461,6 +461,11 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-project-1-presentation",
+          title: 'Project 1 Presentation',
+          description: "a comparison of simple classification models",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project%20copy/";
             },},{id: "projects-my-first-r-shiny-page",
           title: 'My First R Shiny Page',
           description: "an exploratory data analysis of attrition data",
