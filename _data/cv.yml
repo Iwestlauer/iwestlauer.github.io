@@ -1,23 +1,14 @@
 cv:
   name: Isabella Westlauer
-  label: Data Engineer
+
   email: iwestlauer@smu.edu
   location: Dallas, TX
-  image: ""
-  summary: my summary here
 
   social_networks:
     - network: GitHub
       username: iwestlauer
     - network: LinkedIn
       username: isabella-westlauer
-
-  address:
-    street: 123 Main St
-    city: Dallas
-    region: Texas
-    postalCode: 75250
-    countryCode: US
 
   sections:
     Education:
