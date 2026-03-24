@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: My First R Shiny Page
+description: an exploratory data analysis of attrition data
+img: assets/img/attrition-page.png
+redirect: https://iwestlauer.shinyapps.io/unit12shiny/
 importance: 3
-category: work
+category: doing data science
 ---
 
 Every project has a beautiful feature showcase page.
