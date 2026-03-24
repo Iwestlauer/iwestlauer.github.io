@@ -4,32 +4,29 @@ cv:
   email: iwestlauer@smu.edu
   location: Dallas, TX
   image: ""
-  summary: Data engineer and technical leader with expertise in automation, data pipelines, and healthcare compliance.
+  summary: "Data engineer and technical leader with expertise in automation, data pipelines, and healthcare compliance."
 
   social_networks:
     - network: GitHub
       username: iwestlauer
     - network: LinkedIn
-      username: https://www.linkedin.com/in/isabella-westlauer
-
-  address:
-    city: Dallas
-    region: Texas
-    countryCode: US
+      username: isabella-westlauer
 
   sections:
     Education:
       - institution: Southern Methodist University
         location: Dallas, TX
-        studyType: MS Data Science
+        area: Data Science
+        degree: MS
         start_date: 2026
-        end_date: current
+        end_date: present
         highlights:
           - First semester, doing data science with Dr. Bivin Sadler
 
       - institution: University of Texas at Dallas
         location: Dallas, TX
-        studyType: BS Electrical Engineering
+        area: Electrical Engineering
+        degree: BS
         start_date: 2011
         end_date: 2018
         highlights:
@@ -38,7 +35,8 @@ cv:
 
       - institution: University of Pittsburgh
         location: Pittsburgh, PA
-        studyType: BS Bioengineering
+        area: Bioengineering
+        degree: BS
         start_date: 2008
         end_date: 2010
 
@@ -47,12 +45,11 @@ cv:
         position: Data Engineer and NSA Data Lead
         location: Addison, TX
         start_date: 2023
-        end_date: current
+        end_date: present
         summary: Designed and deployed large-scale arbitration automation systems integrating SQL, Python, APIs, and cloud tools, achieving 90%+ efficiency gains and unlocking significant financial recovery under the No Surprises Act.
         highlights:
-          - https://www.orthomedstaffing.com/
-          - python scripts for automation using Playwright
-          - data pipelines to manage claim visibility through arbitration lifecycle
+          - Developed python scripts for automation using Playwright
+          - Built data pipelines to manage claim visibility through arbitration lifecycle
           - Automated complex workflows in NSAIDR, achieving a 95%+ reduction in processing time.
 
       - company: Trusted World
@@ -61,7 +58,6 @@ cv:
         start_date: 2020
         end_date: 2022
         highlights:
-          - https://trustedworld.org/
           - Coordinated student developers and nonprofit stakeholders
           - Developed inventory and order tracking software using Java, Docker, Node.js, MongoDB, Svelte, and .NET, enabling scalable logistics support for nonprofit operations.
           - Directed release cycles, authored user documentation, and led staff training, ensuring successful adoption of new software features.
