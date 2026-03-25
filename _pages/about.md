@@ -6,7 +6,7 @@ subtitle: Data Science, Engineering, Statistics, Math, Biology and Nature
 
 profile:
   align: right
-  image: headshot-2026.jpg
+  image: headshot-2026.PNG
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
