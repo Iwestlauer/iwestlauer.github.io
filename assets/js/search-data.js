@@ -65,15 +65,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-monkey",
+            },{id: "post-a-curious-mind-and-maybe-a-little-monkey-business",
         
-          title: "a monkey",
+          title: "A Curious Mind (and Maybe a Little Monkey Business)",
         
-        description: "this is what included images could look like",
+        description: "my first ever blog post",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/images/";
+            window.location.href = "/blog/2026/monkey/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
