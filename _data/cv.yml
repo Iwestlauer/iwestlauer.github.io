@@ -68,13 +68,13 @@ cv:
 
     Skills:
       - name: Python
-        details: "pandas, numpy, requests, playwright/selenium, pathlib/shutil"
+        keywords: "pandas, numpy, requests, playwright/selenium, pathlib/shutil"
 
       - name: SQL
-        details: "ETL/ELT, data cleaning, DataOps"
+        keywords: "ETL/ELT, data cleaning, DataOps"
 
       - name: Azure DevOps
-        details: "CI/CD, IaC, Git"
+        keywords: "CI/CD, IaC, Git"
 
     Certificates:
       - name: Certified Specialist Business Intelligence
