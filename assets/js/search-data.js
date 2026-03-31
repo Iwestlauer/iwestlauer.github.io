@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-curious-mind-and-maybe-a-little-monkey-business",
+            },{id: "post-protecting-health-data-beyond-hipaa",
+        
+          title: "Protecting Health Data Beyond HIPAA",
+        
+        description: "data science news of the week",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/hipra/";
+          
+        },
+      },{id: "post-a-curious-mind-and-maybe-a-little-monkey-business",
         
           title: "A Curious Mind (and Maybe a Little Monkey Business)",
         
