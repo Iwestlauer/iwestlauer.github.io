@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-protecting-health-data-beyond-hipaa",
+            },{id: "post-msds-6306-quot-doing-data-science-quot",
+        
+          title: "MSDS 6306 &quot;Doing Data Science&quot;",
+        
+        description: "introduction to data science",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/dds/";
+          
+        },
+      },{id: "post-protecting-health-data-beyond-hipaa",
         
           title: "Protecting Health Data Beyond HIPAA",
         
